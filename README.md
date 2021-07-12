@@ -1,8 +1,9 @@
 # timejs
-Time JS
+Time JS is a simples HTML, CSS and Javascript webpage.
 
-Simple Javascript project
+What it does ?
+
 - Captch time from System
 - Print the hours in screen with color and image personalized.
 
-Link : https://higorblands.github.io/timejs/
+Preview : https://higorblands.github.io/timejs/
